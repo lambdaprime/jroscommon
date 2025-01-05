@@ -1,0 +1,2 @@
+include "${zzName}"
+include "${zzName}.tests"
