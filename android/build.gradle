@@ -11,7 +11,7 @@ java {
 }
 
 dependencies {
-  zzApiDependencies.split(',').each { api it }
+  //zzApiDependencies.split(',').each { api it }
 }
 
 android {

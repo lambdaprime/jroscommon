@@ -2,4 +2,4 @@
 
 - Initial commit
 
-[](https://github.com/lambdaprime/bootstrap/raw/main/helloapp/release/helloapp-1.0-SNAPSHOT.jar)
+[jroscommon-v1.0.zip](https://github.com/lambdaprime/jroscommon/raw/main/jroscommon/release/jroscommon-v1.0.zip)
