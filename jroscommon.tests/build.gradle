@@ -51,7 +51,7 @@ jacocoTestCoverageVerification {
   classDirectories.from = project(":${zzName}").sourceSets.main.java.classesDirectory
   violationRules {
     rule {
-    enabled = true
+      enabled = true
       element = 'BUNDLE'
       limit {
         counter = 'LINE'
